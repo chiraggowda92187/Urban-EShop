@@ -10,7 +10,7 @@ _**[Click Here To Preview](https://shopping-cart-project534375.netlify.app)**_
 _**[Click Here To Preview](https://drive.google.com/file/d/1xnvn8HXD9tDgUwe8PSd6yWNX4DEuzFSQ/view?usp=sharing)**_
 
 ## _Architecture_
-_**[Click Here To Preview](https://drive.google.com/file/d/19EjF7U_a1c0hsKfG4BcjBA5tKzqWI93L/view?usp=drive_link)**_
+_**[Click Here To Preview](https://drive.google.com/file/d/1zU1BQlmW26T0jG7PDznt8-IeuhCYM8SW/view?usp=sharing)**_
 
 ## _Wireframe_
 _**[Click Here To Preview](https://drive.google.com/file/d/1Y1oraNHCmB1bUcNnuW4Cws2YjiwhegcJ/view?usp=drive_link)**_
