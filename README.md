@@ -1,4 +1,4 @@
-# PW-INTERNSHIP-SHOPPING-CART: Shopping Cart
+# Urban ESHOP (PW-INTERNSHIP-SHOPPING-CART): Shopping Cart
 
 ## _Live Preview_
 _**[Click Here To Preview](https://shopping-cart-project534375.netlify.app)**_
