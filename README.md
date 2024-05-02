@@ -16,7 +16,7 @@ _**[Click Here To Preview](https://drive.google.com/file/d/1zU1BQlmW26T0jG7PDznt
 _**[Click Here To Preview](https://drive.google.com/file/d/1Y1oraNHCmB1bUcNnuW4Cws2YjiwhegcJ/view?usp=drive_link)**_
 
 ## _High Level Design & Low Level Design_
-_**[Click Here To Preview HLD](https://drive.google.com/file/d/1LWlabURh7PEizC3Ckut5W79wzBLAq0T-/view?usp=drive_link)**_ & _**[Click Here To Preview LLD](https://drive.google.com/file/d/1TVhLnCKeCfKWpRvBFV77WF-AGDeNW8YW/view?usp=drive_link)**_
+_**[Click Here To Preview HLD](https://drive.google.com/file/d/1M3InofYrq1tOpHVzaa28hRYtpl232WC1/view?usp=sharing)**_ & _**[Click Here To Preview LLD](https://drive.google.com/file/d/1ibr1pLV9Iq_m2nmv_SPvAAP47GvWPrdn/view?usp=sharing)**_
 
 ## _Demo Video_
 _**[Click Here To Preview](https://drive.google.com/file/d/11p71ZCkhSrLTMGieIdjuxkGXawMqS7fi/view?usp=drive_link)**_
