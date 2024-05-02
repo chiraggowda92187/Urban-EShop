@@ -7,7 +7,7 @@ _**[Click Here To Preview](https://shopping-cart-project534375.netlify.app)**_
 [![javascript](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=blue)]()
 
 ## _Detailed Project Report_
-_**[Click Here To Preview](https://drive.google.com/file/d/1d8HRRvF2xnFYKdcDMs76O_j8UVtp_iib/view?usp=drive_link)**_
+_**[Click Here To Preview](https://drive.google.com/file/d/1xnvn8HXD9tDgUwe8PSd6yWNX4DEuzFSQ/view?usp=sharing)**_
 
 ## _Architecture_
 _**[Click Here To Preview](https://drive.google.com/file/d/19EjF7U_a1c0hsKfG4BcjBA5tKzqWI93L/view?usp=drive_link)**_
