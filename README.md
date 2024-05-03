@@ -21,7 +21,7 @@ _**[Click Here To Preview HLD](https://drive.google.com/file/d/1M3InofYrq1tOpHVz
 ## _Demo Video_
 _**[Click Here To Preview](https://drive.google.com/file/d/1nRbIw8AF6EEo5hSdDpUTpiR47o88ozj2/view?usp=sharing)**_
 
-![216012666-247a5aa4-b44a-4c73-bf04-2162d30fcf3f](https://github.com/chiraggowda92187/Urban-EShop/blob/master/src/assets/demo%20(%20website)%20final%20video%20-%20Trim.mp4)
+
 
 
 ## _LinkedIn Post_
