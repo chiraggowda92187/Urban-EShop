@@ -1,7 +1,7 @@
 # Urban ESHOP (PW-INTERNSHIP-SHOPPING-CART): Shopping Cart
 
 ## _Live Preview_
-_**[Click Here To Preview]()**_
+_**[Click Here To Preview](https://master--urbaneshop.netlify.app/)**_
 
 ## _Technology Used_
 [![javascript](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=blue)]()
