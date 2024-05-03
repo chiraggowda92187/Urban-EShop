@@ -1,7 +1,7 @@
 # Urban ESHOP (PW-INTERNSHIP-SHOPPING-CART): Shopping Cart
 
 ## _Live Preview_
-_**[Click Here To Preview](https://shopping-cart-project534375.netlify.app)**_
+_**[Click Here To Preview]()**_
 
 ## _Technology Used_
 [![javascript](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=blue)]()
@@ -25,7 +25,7 @@ _**[Click Here To Preview](https://drive.google.com/file/d/1nRbIw8AF6EEo5hSdDpUT
 
 
 ## _LinkedIn Post_
-_**[Click Here to See](https://www.linkedin.com/posts/sahil-rawat-49369b24b_internship-pwskills-reactjs-activity-7099057504311013376-doTm?utm_source=share&utm_medium=member_android)**_
+_**[Click Here to See]()**_
 
 ![urban eshop shopping img](https://github.com/chiraggowda92187/Urban-EShop/blob/master/src/assets/Slide1.JPG)
 
