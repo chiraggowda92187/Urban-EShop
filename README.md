@@ -13,7 +13,7 @@ _**[Click Here To Preview](https://drive.google.com/file/d/1xnvn8HXD9tDgUwe8PSd6
 _**[Click Here To Preview](https://drive.google.com/file/d/1zU1BQlmW26T0jG7PDznt8-IeuhCYM8SW/view?usp=sharing)**_
 
 ## _Wireframe_
-_**[Click Here To Preview](https://drive.google.com/file/d/1Y1oraNHCmB1bUcNnuW4Cws2YjiwhegcJ/view?usp=drive_link)**_
+_**[Click Here To Preview](https://drive.google.com/file/d/18nR5r5QyyvlumeM8gID4VRGZ81TCpG9L/view?usp=sharing)**_
 
 ## _High Level Design & Low Level Design_
 _**[Click Here To Preview HLD](https://drive.google.com/file/d/1M3InofYrq1tOpHVzaa28hRYtpl232WC1/view?usp=sharing)**_ & _**[Click Here To Preview LLD](https://drive.google.com/file/d/1ibr1pLV9Iq_m2nmv_SPvAAP47GvWPrdn/view?usp=sharing)**_
