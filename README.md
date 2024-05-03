@@ -29,7 +29,7 @@ _**[Click Here to See](https://www.linkedin.com/posts/sahil-rawat-49369b24b_inte
 
 ![urban eshop shopping img](https://github.com/chiraggowda92187/Urban-EShop/blob/master/src/assets/Slide1.JPG)
 
-![routes img](https://github.com/sahil-rawat-2110/PW-INTERNSHIP-SHOPPING-CART/assets/124564195/6925858d-12ae-49ad-bb9a-a4f7c7a1f848)
+![routes img](https://github.com/chiraggowda92187/Urban-EShop/blob/master/src/assets/Slide2.JPG)
 
 ![cart first page img](https://github.com/sahil-rawat-2110/PW-INTERNSHIP-SHOPPING-CART/assets/124564195/51579cb8-1634-429a-8adb-0e736dab4002)
 
