@@ -25,7 +25,7 @@ _**[Click Here To Preview](https://drive.google.com/file/d/1nRbIw8AF6EEo5hSdDpUT
 
 
 ## _LinkedIn Post_
-_**[Click Here to See]()**_
+_**[Click Here to See](https://www.linkedin.com/posts/chirag-t-c-718096269_internship-pwskills-react-activity-7192077684665905152-ZdTO?utm_source=share&utm_medium=member_desktop)**_
 
 ![urban eshop shopping img](https://github.com/chiraggowda92187/Urban-EShop/blob/master/src/assets/Slide1.JPG)
 
